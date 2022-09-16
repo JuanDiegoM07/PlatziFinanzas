@@ -32,6 +32,7 @@
 		24CAC1AF28D23518009BDB9A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24CAC1AD28D23518009BDB9A /* SceneDelegate.swift */; };
 		24CAC1B128D2361D009BDB9A /* SignIn.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 24CAC1B028D2361D009BDB9A /* SignIn.storyboard */; };
 		24CAC1B428D23F04009BDB9A /* Colors.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 24CAC1B328D23F04009BDB9A /* Colors.xcassets */; };
+		B043DE5E28D4FF5F004BF440 /* SignIn.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 24CAC1B028D2361D009BDB9A /* SignIn.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -341,6 +342,7 @@
 				2449AE2B28D21EDC0066916C /* LaunchScreen.storyboard in Resources */,
 				2449AE2C28D21EDC0066916C /* Assets.xcassets in Resources */,
 				2425FE5F28D2326B00168E58 /* Statistics.storyboard in Resources */,
+				B043DE5E28D4FF5F004BF440 /* SignIn.storyboard in Resources */,
 				2425FE5B28D2326300168E58 /* Add.storyboard in Resources */,
 				2425FE6128D2326E00168E58 /* Profile.storyboard in Resources */,
 				2449AE2D28D21EDC0066916C /* Main.storyboard in Resources */,
@@ -514,12 +516,12 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = M827S9DWQ4;
+				DEVELOPMENT_TEAM = "";
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = PlatziFinanzas/Base/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UIMainStoryboardFile = SignIn;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
@@ -544,12 +546,12 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = M827S9DWQ4;
+				DEVELOPMENT_TEAM = "";
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = PlatziFinanzas/Base/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UIMainStoryboardFile = SignIn;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
